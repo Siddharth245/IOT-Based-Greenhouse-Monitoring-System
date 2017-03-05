@@ -1,0 +1,3 @@
+ The System is aligned with Sun
+Temperature is 21.37C. The Fan is Off
+Moisture Content : 80.19% 
